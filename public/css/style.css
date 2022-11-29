@@ -1,0 +1,13 @@
+section {
+    display: flex;
+    justify-content: space-around;
+    padding: 200px 0px;
+    background-color: bisque;
+}
+
+div {
+    background-color: orangered;
+    padding: 2% 4%;
+    margin: 1%;
+}
+
